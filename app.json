@@ -1,12 +1,13 @@
 {
- "name": "tg files by ai",
+ "name": "TG Files to Link",
  "description": "Telegram files to Direct link!!",
- "logo": "https://publiclink.herokuapp.com/768683263533328/2020-09-13_17:59:45.jpg",
+ "logo": "https://telegra.ph/file/c3d25aa057a3aa2282d50.png",
  "keywords": [
    "telegram",
-   "FiletoLinkBotbyai",
+   "FiletoLinkBot",
+   "For ScreenShot Bot"
   ],
- "repository": "https://github.com/TG-AI/test-strem-by-ai",
+ "repository": "https://github.com/TGExplore/TG-Files-to-Link",
  "env": {
    "TG_API_ID": {
       "description": "Your Telegram API ID. Get this value from my.telegram.org!",
