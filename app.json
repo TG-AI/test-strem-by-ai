@@ -10,15 +10,15 @@
  "env": {
    "TG_API_ID": {
       "description": "Your Telegram API ID. Get this value from my.telegram.org!",
-      "value": "1648709"
+      "value": ""
   },
    "TG_API_HASH": {
       "description": " Your Telegram API hash. Get this value from my.telegram.org!",
-      "value": "aa5ef7cd3261582989b23944fd5b9ae1"
+      "value": ""
   },
    "BOT_TOKEN": {
       "description": "Your Bot token, as a string",
-      "value": "1321214984:AAFn3mpRHNdA26ujKbbA9oR-vT-sp8NsFYY"
+      "value": ""
   },
    "HOST": {
       "description": "Leave the Same Value",
@@ -27,7 +27,7 @@
   },
    "PUBLIC_URL": {
       "description": "The Heroku App URL similar to https://<appname>.herokuapp.com/",
-      "value": "https://tg files.pythonanywhere.com"
+      "value": ""
   }
  }
 }
